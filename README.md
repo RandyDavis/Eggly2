@@ -1,0 +1,1 @@
+Repo for new iteration for Eggly Angular App, modularized and John Papafied
